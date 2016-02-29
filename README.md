@@ -1,6 +1,6 @@
 # Alternative icon for Polymail.app
 
-[[https://github.com/Greenek/polymail.icns/blob/master/preview.png|alt=Polymail.icns]]
+![Polymail.icns](https://raw.github.com/Greenek/polymail.icns/master/preview.png)
 
 ## Installation
 
