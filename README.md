@@ -4,7 +4,7 @@
 
 ## Installation
 
-- Download and extract latest version of [Polymail.icns](https://github.com/Greenek/polymail.icns/archive/v1.0.0.tar.gz)
+- Download and extract latest version of [Polymail.icns](https://github.com/Greenek/polymail.icns/releases/download/v1.0.0/Polymail.icns)
 - Quit `Polymail.app`.
 - Go to `/Applications/` folder.
 - Select `Polymail.app` icon and press <kbd>Cmd</kbd>+<kbd>I</kbd> or select `Get Info` from right-click menu.
