@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Icon64</title>
+  <defs>
+    <filter id="dropshadow">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2"/>
+      <feOffset dx="0" dy="2"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.2"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g id="Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" filter="url(#dropshadow)">
+    <g id="Icon64">
+      <g id="Group" transform="translate(3.000000, 6.000000)">
+        <g id="Icon">
+          <path d="M28.9913504,0.107697257 L57.9048278,17.3560281 L57.9048278,51.8555323 L0.0778729855,51.8555323 L0.0778729855,17.3560281 L28.9913504,0.107697257 Z" id="Border" fill="#FFFFFF"></path>
+          <g id="Envelope" transform="translate(3.744487, 4.507129)">
+            <g id="Bottom" transform="translate(0.000000, 14.799774)">
+              <path d="M0,0 L0,29.1549188 L25.2911193,14.7997736 L0,0 Z" id="Left" fill="#47B7F2"></path>
+              <path d="M25.2911193,0 L25.2911193,29.1549188 L50.5822386,14.7997736 L25.2911193,0 Z" id="Right" fill="#B2FDF3" transform="translate(37.936679, 14.577459) scale(-1, 1) translate(-37.936679, -14.577459) "></path>
+              <path d="M25.2911193,14.7997736 L25.2911193,29.1549188 L0,29.1549188 L25.2911193,14.7997736 Z" id="Bottom-left" fill="#48DFF5"></path>
+              <path d="M50.5822386,14.7997736 L50.5822386,29.1549188 L25.2911193,29.1549188 L50.5822386,14.7997736 Z" id="Bottom-left-Copy" fill="#72FDF0" transform="translate(37.936679, 21.977346) scale(-1, 1) translate(-37.936679, -21.977346) "></path>
+            </g>
+            <g id="Top" transform="translate(0.000000, -0.000000)">
+              <path d="M0,14.7997736 L25.2911193,14.7997736 L25.2911193,0 L0,14.7997736 Z" id="Top-left" fill="#FF7283"></path>
+              <path d="M25.2911193,14.7997736 L50.5822386,14.7997736 L50.5822386,0 L25.2911193,14.7997736 Z" id="Top-right" fill="#FFAB99" transform="translate(37.936679, 7.399887) scale(-1, 1) translate(-37.936679, -7.399887) "></path>
+              <path d="M0,29.5995472 L25.2911193,29.5995472 L25.2911193,14.7997736 L0,29.5995472 Z" id="Bottom-left" fill="#FF3D56" transform="translate(12.645560, 22.199660) scale(1, -1) translate(-12.645560, -22.199660) "></path>
+              <path d="M25.2911193,29.5995472 L50.5822386,29.5995472 L50.5822386,14.7997736 L25.2911193,29.5995472 Z" id="Bottom-right" fill="#FF8064" transform="translate(37.936679, 22.199660) scale(-1, -1) translate(-37.936679, -22.199660) "></path>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
